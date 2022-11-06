@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "p8g.js": "./p8gjs.js",
+    "victor": "./victor.js"
+  }
+}

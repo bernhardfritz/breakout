@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "start": "snowpack dev",
+    "build": "snowpack build"
+  },
+  "dependencies": {
+    "p8g.js": "^0.8.2",
+    "victor": "^1.1.0"
+  },
+  "devDependencies": {
+    "snowpack": "^3.8.8"
+  }
+}
